@@ -21,7 +21,7 @@ A Discord bot that tracks **user points** anywhere — in servers, DMs, or group
 
 ```bash
 git clone https://github.com/xyn4xdev-lab/pointbot.git
-cd points-bot
+cd pointbot
 npm install
 ```
 
